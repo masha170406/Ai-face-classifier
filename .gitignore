@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+outputs/
+*.pth
+*.png
+AI-Face-Dataset-3000_Images/
+.vscode/
+.idea/
+.DS_Store
+dataset/
+.gradio/
